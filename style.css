@@ -33,7 +33,7 @@ header a{
     color: var(--whitetwo);
     margin-right: 40px;
 }
-/* carousel */
+/* loop */
 .carousel{
     height: 100vh;
     margin-top: -50px;
