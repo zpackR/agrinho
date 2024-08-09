@@ -1,5 +1,5 @@
 <h1>Agrinho 2024</h1>
-<p>Hello Dev seja bem vindo, bom esse é um simples projeto<br>
+<p>Hello Dev seja bem vindo, bom esse é um simples projeto
 Um simples slider, com o tema "Do campo pra cidade"
 </p>
 <h2>Pra que serve</h2>
