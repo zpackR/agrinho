@@ -23,3 +23,7 @@ https://agrinho2024-alpha-snowy.vercel.app/
 
 <h4>Git Page</h4>
 https://zpackr.github.io/agrinho/
+
+<h3>Atenção!</h3>
+<p>Quando o link é aberto pela primeira vez, o site demora um pouco pra carregar!
+Não é bug   (Pelo menos eu acho né😊!!)</p>
