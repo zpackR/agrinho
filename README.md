@@ -1,4 +1,4 @@
-#Agrinho 2024
+<h1>Agrinho 2024</h1>
 <p>Hello Dev seja bem vindo, bom esse é um simples projeto
 Um simples slider, com o tema "Do campo pra cidade"
 </p>
@@ -27,7 +27,3 @@ https://zpackr.github.io/agrinho/
 <h3>Atenção!</h3>
 <p>Quando o link é aberto pela primeira vez, o site demora um pouco pra carregar!
 Não é bug   (Pelo menos eu acho né😊!!)</p>
-
-```
-test
-```
