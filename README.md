@@ -12,8 +12,8 @@ fala também sobre o êxodo rural</p>
 título, e uma simples descrição.</p>
 <p>Existe também dois buttons, que é somente por estética, não possui nenhuma função,
 talvez no futuro!</p>
-<p>Na parte superior existe alguns links, como "home"; "info"; "contact"; que ao serem usados
-carregam a pagina novamente, e volta o slider para o começo</p>
+<p>Na parte superior existe alguns links, como "home"; "info"; ; que ao serem usados, o HOME responsável por voltar o slider 1,
+já, em INFO carrega um link sobre o concurso agrinho.</p>
 <p>Por ultimo existe um "progredir" e um "regredir" que é utilizado para passar os slides.
 Lembrando que existe uma barra de carregamento que dura +- 30s para acabar, e depois de 1min
 o slider é passado para o proximo de forma automatica!</p>
