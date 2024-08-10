@@ -17,6 +17,7 @@ carregam a pagina novamente, e volta o slider para o começo</p>
 <p>Por ultimo existe um "progredir" e um "regredir" que é utilizado para passar os slides.
 Lembrando que existe uma barra de carregamento que dura +- 30s para acabar, e depois de 1min
 o slider é passado para o proximo de forma automatica!</p>
+<p>Vale lembrar que se o slider for carregador em um monitor do tamanho de um notebook, recomendo usar o modo tela cheia(f11), para uma melhor experiência!</p>
 
 <h4>Vercel</h4>
 https://agrinho2024-alpha-snowy.vercel.app/
