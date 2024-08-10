@@ -1,10 +1,10 @@
 <h1>Agrinho 2024</h1>
 <p>Hello Dev seja bem vindo, bom esse é um simples projeto
-Um simples slider, com o tema "Do campo pra cidade"
+Um simples slider, com o tema "Do campo para cidade"
 </p>
 <h2>Pra que serve</h2>
 <p>Este projeto é para um concurso das escolas estaduais do Paraná,
-com intuito de explicar pras pessoas, a simples função de campo e cidade, 
+com intuito de explicar para as pessoas, a simples função de campo e cidade, 
 fala também sobre o êxodo rural</p>
 
 <h3>Sobre o Slider</h3>
@@ -25,5 +25,5 @@ https://agrinho2024-alpha-snowy.vercel.app/
 https://zpackr.github.io/agrinho/
 
 <h3>Atenção!</h3>
-<p>Quando o link é aberto pela primeira vez, o site demora um pouco pra carregar!
+<p>Quando o link é aberto pela primeira vez, o site demora um pouco para carregar!
 Não é bug   (Pelo menos eu acho né😊!!)</p>
